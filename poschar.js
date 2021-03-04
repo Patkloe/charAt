@@ -2,4 +2,4 @@ function poschar(s){
  var pos = s.charAt(1);
 return pos;
 }
-poschar("patrick");
+poschar("patrick"); // juste for test
